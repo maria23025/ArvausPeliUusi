@@ -34,3 +34,4 @@ public class arvauspeliharjoitus {
 	}
 }
 System.out.println ("testataan gitia");
+System.out.println ("toinen muokkaus");

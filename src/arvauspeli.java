@@ -20,7 +20,7 @@ public class arvauspeliharjoitus {
 		}
 			else 
 			{
-				System.out.println ("Arvasit väärin, yritä uudestaan.");
+				System.out.println ("Arvasit vï¿½ï¿½rin, yritï¿½ uudestaan.");
 				System.out.println ("Arvaa nimi");
 				arvaus = in.nextLine();
 				
@@ -33,3 +33,4 @@ public class arvauspeliharjoitus {
 		}
 	}
 }
+System.out.println ("testataan gitia");
